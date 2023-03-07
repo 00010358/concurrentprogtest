@@ -1,0 +1,25 @@
+D:\cp\tw7_bis2_3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\cp\tw7_bis2_3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\cp\tw7_bis2_3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\cp\tw7_bis2_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\cp\tw7_bis2_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\cp\tw7_bis2_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\cp\tw7_bis2_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\cp\tw7_bis2_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\cp\tw7_bis2_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\cp\tw7_bis2_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\cp\tw7_bis2_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\cp\tw7_bis2_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\cp\tw7_bis2_3\WindowsFormsApp1\bin\Debug\CP_MockTest_DLL.dll
+D:\WIUT Classes\lvl6\ConcurrentProg\Mocks\bis2_3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\WIUT Classes\lvl6\ConcurrentProg\Mocks\bis2_3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\WIUT Classes\lvl6\ConcurrentProg\Mocks\bis2_3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\WIUT Classes\lvl6\ConcurrentProg\Mocks\bis2_3\WindowsFormsApp1\bin\Debug\CP_MockTest_DLL.dll
+D:\WIUT Classes\lvl6\ConcurrentProg\Mocks\bis2_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\WIUT Classes\lvl6\ConcurrentProg\Mocks\bis2_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\WIUT Classes\lvl6\ConcurrentProg\Mocks\bis2_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\WIUT Classes\lvl6\ConcurrentProg\Mocks\bis2_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\WIUT Classes\lvl6\ConcurrentProg\Mocks\bis2_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\WIUT Classes\lvl6\ConcurrentProg\Mocks\bis2_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\WIUT Classes\lvl6\ConcurrentProg\Mocks\bis2_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\WIUT Classes\lvl6\ConcurrentProg\Mocks\bis2_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
